@@ -1,0 +1,18 @@
+.fixed-button {
+  height: 30px;
+  width: 50%;
+  position: sticky;
+  bottom: 0;
+  background: linear-gradient(rgb(252, 70, 70) 100%, rgba(255, 255, 255, 0));
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
